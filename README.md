@@ -1,1 +1,3 @@
-# google_interview
+# google interview
+
+some of the important coding patterns. 
